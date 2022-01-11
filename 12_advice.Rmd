@@ -1,0 +1,32 @@
+# Advice for Graduate Students
+
+My most important piece of general advice to people is to be kind. That's not always the thing I do as well as I'd like.
+
+```{r fullprof-fig, echo = FALSE, out.width = '80%'}
+knitr::include_graphics("images/2019-06-12_ta_fullprof.png")
+```
+
+## On Graduate School
+
+For graduate students, I urge you to take as much advantage of this learning experience as you can. While I'll refer to some of the pieces below during the course, I've gathered a few favorites here. 
+
+1. From [matt.might.net](http://matt.might.net/articles/)...
+    - [12 Resolutions for Grad Students](http://matt.might.net/articles/grad-student-resolutions/)
+    - [How to get a great letter of recommendation](http://matt.might.net/articles/how-to-recommendation-letter/)
+    - [How to send and reply to email](http://matt.might.net/articles/how-to-email/). You might also want to look at [Email Etiquette: Guidelines for Writing to Your Professors](https://marktomforde.com/academic/undergraduates/Email-Etiquette.html)
+2. [Four Things You Should Do When You're Bored, on YouTube](https://www.youtube.com/watch?v=d9W2GO1LhP4) (the four things are Exercise / Read / Meditate / Find and Engage a Hobby with Passion). Also, [Get Up and Move. It May Make You Happier](https://www.nytimes.com/2017/01/25/well/move/get-up-and-move-it-may-make-you-happier.html) by Gretchen Reynolds, in the *New York Times*, 2017-01-25.
+3. [Why academics need to focus on structuring their time](https://www.universityaffairs.ca/career-advice/career-advice-article/academics-need-focus-structuring-time/) from *University Affairs*.
+4. Most people are really bad at meetings, including Dr. Love. [Here are some extremely useful suggestions from Greg Wilson](http://third-bit.com/2018/05/11/meetings.html). In a tweet, [Wilson argues that](https://twitter.com/gvwilson/status/994553693772099589) "the single most useful training you can give an adult is how to run a meeting and how to participate in someone else's."
+5. Some people need help taking notes. You might be interested in [Cornell Note Taking](https://medium.goodnotes.com/study-with-ease-the-best-way-to-take-notes-2749a3e8297b) or the [5 other methods described here](https://collegeinfogeek.com/how-to-take-notes-in-college/).
+6. You may be interested in the American Statistical Association, and its [This is Statistics](https://thisisstatistics.org/students/) program.
+
+## On Seeking a Job
+
+If I have a job or internship to offer, I'll be noisy about it in class. In the meantime, I'd consider joining the [American Statistical Association as a student member](https://www.amstat.org/ASA/Membership/home.aspx) and perhaps joining the [Greater Cleveland R Meetup Group](https://www.meetup.com/Cleveland-UseR-Group/).
+
+Here are some gathered thoughts from other folks that you might enjoy:
+
+1. [General Advice on an Academic Career Path](https://github.com/stephaniehicks/classroomNotes/blob/master/academicJobNotes.md) (which is filled with useful advice, especially for those studying biostatistics.)
+2. [Advice for Applying to Data Science Jobs](https://hookedondata.org/advice-for-applying-to-data-science-jobs/) from [Emily Robinson](https://hookedondata.org/)
+3. [Academic job search advice](http://matt.might.net/articles/advice-for-academic-job-hunt/) from [matt.might.net](http://matt.might.net/articles/)
+4. [Career Advice for Data Scientists](https://rstudio.com/resources/rstudioconf-2020/panel-career-advice-for-data-scientists/) was a panel at rstudio::conf 2020 focused on building a career around R.

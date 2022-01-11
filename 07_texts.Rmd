@@ -1,0 +1,51 @@
+# Required Texts
+
+## Professor Love's Materials
+
+The main text is a set of Notes for the course, maintained by Professor Love, titled **Data Science for Biological, Medical and Health Research: Notes for PQHS 432.** A link to these notes will be made available to you at the first class. Professor Love revises the Notes every year, and so they will appear in fits and starts as the semester progresses.
+
+Although these Notes share some of the features of a textbook, they are neither comprehensive nor completely original. The main purpose is to give 431 students a set of common materials on which to draw during the course, providing a series of examples using R to work through issues that are likely to come up during the semester, and in later work. 
+
+In addition, **slides** and video recordings from each of Professor Love's lectures, plus other in-class materials from each session of the class will be posted for your use in a timely fashion throughout the semester.
+
+Once class begins, access all materials [at the main course website](https://thomaselove.github.io/432/).
+
+## Two Books To Purchase
+
+As mentioned, we'll read two books you'll need to purchase:
+
+1. Nate Silver's **The Signal and the Noise**, available [on Amazon](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087) for about $20. 
+    - The 2013 or 2015 edition is sufficient for 432, and either an electronic or paper version is fine. In 2020, Nate added a new preface, which is interesting, but not critical.
+2. Jeff Leek's **How to be a Modern Scientist** available as an ebook [on Leanpub](https://leanpub.com/modernscientist) for a suggested $10 (minimum price: free).
+    - This was written in 2016, and is thus a little out of date, but still very helpful. You can read the entire book in a couple of hours.
+
+## Three Books to Download
+
+There are three other books that I expect you will want to download during the semester. All are freely available at the links below.
+
+1. [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
+2. [Biostatistics for Biomedical Research](http://hbiostat.org/doc/bbr.pdf) (pdf) by Frank E. Harrell Jr and James C Slaughter
+3. [Modern Dive: Statistical Inference via Data Science (A Modern Dive into R and the Tidyverse)](https://moderndive.netlify.com/) by Chester Ismay and Albert Y. Kim.
+
+## Key Articles and Posts
+
+While I will recommend dozens, perhaps hundreds of articles, blog posts and the like to you over the course of the year, these are especially important in 432.
+
+1. Several of the guides prepared by Jeff Leek and his group to supplement what you'll find in *How to be a modern scientist*, including:
+    + [Finally, a Formula for Decoding Health News](https://fivethirtyeight.com/features/a-formula-for-decoding-health-news/), from fivethirtyeight.com
+    + [Reading academic (scientific) papers](https://github.com/jtleek/readingpapers),
+    + [Writing your first academic paper](https://github.com/jtleek/firstpaper)
+    + [Write papers like a modern scientist](https://simplystatistics.org/2016/04/21/writing/)
+    + [How to Share Data for Collaboration](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1375987) by Shannon E. Ellis and Jeffrey T. Leek in *The American Statistician*, 2018 Special Issue on Data Science, or you can [read the PeerJ preprint version here](https://peerj.com/preprints/3139/).
+2. [Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989) by Karl W. Broman and Kara H. Woo in The American Statistician, 2018 Special Issue on Data Science, or you can [read the PeerJ preprint version](https://peerj.com/preprints/3183/).
+    + The Ellis/Leek and Broman/Woo papers are part of the [Practical Data Science for Stats](https://peerj.com/collections/50-practicaldatascistats/) collection, which may be of interest.
+3. [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/) at tidyverse.org from Jenny Bryan.
+4. From the Ten Simple Rules series at PLOS Computational Biology:
+    + [Ten Simple Rules for Effective Statistical Practice](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004961) by Kass RE et al. 2016
+    + [Ten Simple Rules for Graduate Students](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229) by Gu J Bourne PE 2007
+    + [Ten Simple Rules for Better Figures](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) by Rougier NP Droettboom M Bourne PE 2014
+    + [Ten Simple Rules for Creating a Good Data Management Plan](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004525) by Michener WK 2015
+5. [Statistical Inference in the 21st Century: A World Beyond *p* < 0.05](https://amstat.tandfonline.com/toc/utas20/73/sup1) from 2019 in *The American Statistician*
+6. The American Statistical Association's 2016 [Statement on p-Values](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108): Context, Process and Purpose.
+
+See [the main course website](https://thomaselove.github.io/432/) and especially [the References and Resources page](https://github.com/THOMASELOVE/432-2022/tree/main/references) for other recommendations as the semester goes on.

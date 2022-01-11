@@ -1,0 +1,179 @@
+# University Resources for Student Support
+
+```{r cwrulogouniv-fig, echo = FALSE, out.width = '20%'}
+knitr::include_graphics("images/cwru-stacked-logo.jpg")
+```
+
+Case Western Reserve University has a wide range of student support resources on campus. These resources can assist students both in the classroom and outside of it. CWRU offers these resources to enrich and enhance each student's academic experience and to create an environment that encourages personal growth and development. We provide a detailed list (also available at the website of the Department of Population and Quantitative Health Sciences) below. For each resource, we also list contact information including a website where you can learn more. Please take advantage of these resources.
+
+## CWRU CARE (NEW Virtual Mental Health option)
+
+A new initiative, [CWRU Care](https://case.edu/studentlife/healthcounseling/counseling-services/cwru-care-virtual-counseling-visits), is meant to help ensure that students living beyond our state can access mental health care from providers familiar with university students' unique needs. More, it will increase students' opportunities to connect quickly with counselors regarding specific issues-and, we hope, provide additional flexibility in scheduling regular sessions. As with services our university counseling staff provide, your sessions and interactions with CWRU Care are free of charge to you.
+
+Those who live in Ohio continue to have the option to access care through [University Counseling Services](https://case.edu/studentlife/healthcounseling/counseling-services), but also are eligible to use [CWRU Care](https://case.edu/studentlife/healthcounseling/counseling-services/cwru-care-virtual-counseling-visits). Those outside Ohio can contact our counseling services 24/7 at 216.368.5872 either for emergency care or to seek assistance in identifying a qualified provider where they live. Alternatively, they can connect with providers using CWRU Care. More information is [available here about CWRU Care](https://case.edu/studentlife/healthcounseling/counseling-services/cwru-care-virtual-counseling-visits). 
+
+Students living abroad are only able to access short-term assistance (e.g. when connected quickly with a provider to talk that day about an issue) through CWRU Care. Regularly scheduled sessions are not an option for those outside the U.S.
+
+## School of Graduate Studies
+
+- Location: 203 Tomlinson Hall
+- Phone: 216-368-4390
+- Website: https://case.edu/gradstudies/
+
+A main goal of the School of Graduate Studies is to assist students in their efforts to succeed from application to graduation. The School of Graduate Studies serves as a warehouse for internships, fellowships, and funding to support research efforts of graduate students. Funding support for research development, implementation, and travel is made available broadly for students enrolled in programs contained within the school (including the Master of Public Health program). 
+
+## Office of Student Affairs
+
+- Location: 110 Adelbert Hall
+- Phone: 216-368-2020
+- Website: https://case.edu/studentlife/
+
+The Office of Student Affairs provides programs, facilities, and services that extend and enhance the student experience at Case. Office members work to collaborate actively with students, faculty, and staff to develop programs and services that enhance the quality of life at the university and foster a just and humane campus. Staff members also encourage students to develop ethically, intellectually, socially, and physically. Students learn to act responsibly at the campus level, while embracing leadership and involvement on and off campus. Crisis intervention is an important function of the Vice President for Student Affairs as well as staff members. Students who have personal or family problems are urged to contact the Student Affairs staff and communicate their needs or concerns. Their goal is to listen, intervene if appropriate, or refer the student to other resources. Students' concerns remain confidential. 
+
+## International Student Services
+
+- Location: 143 Tomlinson Hall
+- Phone: 216-368-2517
+- Website: https://case.edu/international/international-student-services
+
+International Student Services provides a smooth transition for international students who attend Case Western Reserve University. The office serves as a liaison with the U.S. Immigration and Naturalization Service, the U.S. Department of State, foreign embassies, educational consular offices, the International Institute of Education, and Fulbright-Hays grant offices. 
+
+## University Health Services
+
+- Location: 2145 Adelbert Road
+- Phone: 216-368-2450
+- Email: uhcs@case.edu
+- Website: https://case.edu/studentlife/healthcounseling/
+
+University Health Service (part of University Health & Counseling Services) provides health care for students on an emergency and non-emergency basis. The office provides support from physicians, nurses, psychiatrists and social workers. It also offers specialty clinics for skin, dermatology, allergies, and women's health, and coordinates the Student Medical Plan with Aetna Student Health. UHS is also the primary campus contact for the student insurance program, the Student Medical Plan. 
+
+## University Counseling Services
+
+- Location: 220 Sears Building
+- Phone: 216-368-5872
+- Email: uhcs@case.edu
+- Website: https://case.edu/studentlife/healthcounseling/
+
+University Counseling Services (part of University Health & Counseling Services) offers wellness programs, psychiatric services, and prevention and recovery service programs. Psychologists, psychiatrists, social workers, counselors and doctoral-level counseling trainees are all part of a student's support network. Clinics on healthy sleep, meditation, anxiety and stress management also are available on a regular basis. There is no fee for services provided by University Counseling Services. 
+
+
+## Educational Services for Students
+
+- Location: 470 Sears Library
+- Phone: 216-368-5230
+- Website: https://case.edu/studentsuccess/academic-resources
+
+Educational Services for Students (ESS) offers resources to enhance the academic experience at Case. Services include the Peer Tutoring and Supplemental Instruction (SI) programs, Disability Resources, Graduate Teaching Assistant (TA) training, and individual consultation for academic success. Students with disabilities are encouraged to contact ESS, to ensure the resources necessary to fully participate in their chosen programs and activities. Full details about ESS can be found [on their website](https://case.edu/studentsuccess/academic-resources) at https://case.edu/studentsuccess/academic-resources.
+
+## English Language Resources
+
+- Website: https://case.edu/studentsuccess/academic-resources/english-language-resources
+
+Within the ESS group, English language resources are available for you to practice pronunciation, fluency, vocabulary and other spoken English skills. 
+
+- Individual Consultations include appointments you can schedule to work on the skills below.
+  - Conversation skills
+  - Grammar in speaking and writing
+  - Idioms and slang
+  - Interviewing
+  - Listening and note taking
+  - Networking
+  - Participating in discussions
+  - Presentations
+  - Pronunciation
+  - Reading comprehension
+  - Writing process
+  - Individual needs (e.g., understanding a syllabus, confidence, making friends, general fluency, descriptions)
+- English Conversation Hour is an opportunity for members of the CWRU community interested in strengthening their proficiency in conversational English as well as those already proficient in conversational English to come together each week for connection and sharing. 
+- Spoken English tutoring is available for improving pronunciation, conversational, and fluency skills. Appointments are on a first-come, first-serve basis for undergraduate and graduate students.
+
+## Writing Resource Center
+
+- Location: 104 Bellflower Hall
+- Phone: 216-368-3798
+- Website: https://case.mywconline.com/
+
+The Writing Resource Center (WRC) at Case Western Reserve University provides supplemental, discipline-specific writing instruction to students of all levels at the university. WRC writing consultants work one-on-one with students on a wide variety of projects. The WRC encourage visits from students at any stage of the writing process, from brainstorming and drafting, to revising and organizing, to sharpening expression. While the WRC also works with students on issues of mechanics and grammar, they are not a proofreading service. WRC consultants work collaboratively with students to assist them in becoming better writers. 
+
+The WRC will reopen during the second week of the Fall semester. During the Fall semester, consultants will  offer campus writers both real-time online appointments and asynchronous writing review, or eTutoring. To schedule an appointment, visit https://case.mywconline.com/.
+
+## University Libraries
+
+The CWRU libraries are an integrated system comprised of the Kelvin Smith Library, the Judge Ben C. Green Law Library, the Mandel School of Applied Social Science's Lillian F. & Milford J. Harris Library, the Astronomy Library, and the Kulas Music Library. All libraries support the faculty, students and staff of the undergraduate, graduate and professional schools, and are open to the public for in-house use of most materials. Combined, the university collections number more than 2.75 million volumes. 
+
+## Access Services
+
+- Location: 18 Crawford Hall
+- Phone: 216-368-CARD (2273)
+- Website: https://case.edu/access-services/
+
+Access Services is the office responsible for issuing Case ID Cards and managing their various functions, including granting access to facilities such as buildings and parking lots. Access Services also distributes Greater Cleveland RTA bus and rapid train passes each semester, available to graduate students at a cost of $75 per semester. 
+
+**Note**: As an active Case graduate student, your ID card will provide access to the following areas with specific hours determined by the department or school in which the area is controlled: Carlton Basketball Court, Carlton Road Tennis Courts, Glennan 312, Glennan 317A, Juniper Basketball Court, Kelvin Smith Library, Mather Memorial G Restroom, Nord 415 Computer Lab, Medical School Library, Nord Hall Quad Side, North Residential Village Garage doors & elevators, Olin Perimeter, Thwing, Veale Center, and White Perimeter. Your ID card will also provide 24-hour access to the School of Medicine. For new students, access to the School of Medicine will begin after the start of classes.
+
+## Office of Financial Aid
+
+- Location: 417A Yost Hall
+- Phone: 216-368-4530
+- Website: https://case.edu/financialaid/
+
+Investing in a Case Western Reserve University education is investing in you. We realize that tuition, fees, and other expenses make it difficult for many students (and their families) to finance the cost of attending a college or university without some form of financial assistance. The Office of Financial Aid operates a sophisticated program of financial aid and scholarship opportunities to assist students and to ease the financial burden that a college education may represent. 
+
+## Lesbian, Gay, Bisexual, and Transgender Center
+
+- Location: Tinkham Veale University Center Suite 179
+- Phone: 216-368-LGBT (5428)
+- Website: https://case.edu/lgbt/
+
+The Lesbian, Gay, Bisexual, and Transgender (LGBT) Center at Case Western Reserve University provides a long-awaited home for members of the LGBT community and their allies. It also serves as a source of information and insight for those who have lesbian, gay, bisexual or transgender children or loved ones. Finally, it is also a place that welcomes alumni and prospective students, faculty and staff. The LGBT Center provides a lounge, kitchenette, office, and study and meeting space. It has been designed to offer areas that encourage informal gatherings as well as more structured events. In addition, the Center provides places where people can seek both information and support.
+
+## Flora Stone Mather Center for Women
+
+- Location: Tinkham Veale University Center Room 248
+- Phone: 216-368-0985
+- Website: https://case.edu/centerforwomen/
+
+The mission of the Flora Stone Mather Center for Women at Case Western Reserve University is to support and empower women through education, advocacy and leadership. The Flora Stone Mather Center for Women serves as a resource to all women at the university by offering a variety of initiatives focused on leadership development and recognition, gender equity in Science, Technology, Engineering and Mathematics (STEM) fields, and women's health. Additionally, the Project on Men and Gender (PMG) features annual programs and workshops that explore masculinity, men's violence, gender stereotypes, and healthy relationships in the interest of reducing violence against women. 
+
+## Office of Inclusion, Diversity and Equal Opportunity
+
+- Location: 315 Adelbert Hall
+- Phone: 216-368-8877
+- Website: https://case.edu/diversity/
+
+Be it race, ethnicity, religion, political persuasion, sexual orientation or gender identity, all Case Western Reserve University students (current and future, undergraduate as well as graduate and professional) are celebrated and supported through the Office of Inclusion, Diversity and Equal Opportunity and its extensive network of campus programs, partnerships, groups and global influences. The mission of the office of inclusion, diversity and equal opportunity is to provide support and guidance and to promote equitable and fair treatment in employment, education and other aspects of campus life. the office serves as a resource to the university in the interpretation, understanding and application of federal and state equal opportunity and affirmative action laws and regulations.
+
+Ultimately, the office supports the university's mission by providing strategic leadership in the development of policies, procedures and programs that will help foster diversity, inclusiveness and a welcoming environment for faculty, staff, students and others.
+
+The Office of Inclusion, Diversity and Equal Opportunity at Case Western Reserve University also gives awards to members of the university community in recognition of significant contributions toward enhancing the university's commitment to diversity through inclusive thinking, mindful learning and transformative dialogue.
+
+These awards recognize and encourage such contributions that may include promoting respect, building community, establishing effective cross-cultural initiatives and advocating equity and inclusion within the university community.
+
+## Office of Multicultural Affairs
+
+- Location: 450 Sears Library
+- Phone: 216-368-2904
+- Website: https://case.edu/studentlife/multicultural/
+
+The Office of Multicultural Affairs (OMA) encourages, supports and facilitates the success of all Case students by providing opportunities for diverse interaction and cultural education that occurs outside of the classroom environment.
+
+- Building a "Sense of Community"
+  - Case Western Reserve University is a truly diverse, multicultural campus, and the Office of Multicultural Affairs embraces all Case students, faculty and staff.
+- We Value Diversity
+  - Diversity is a reality created by unique individuals and groups from a broad spectrum of demographic and philosophical perspectives.
+- Multicultural Enrichment
+  - OMA staff members serve as facilitators for presenting workshops in classrooms, residence halls and for student organizations.
+- Academic Support and Guidance
+  - The primary goal of the OMA is to assist students in being academically successful during their college career at Case.
+- Networking and Mentoring Opportunities
+  - The OMA provides students with professional networking/mentoring opportunities, skill-building workshops and job/internship opportunities.
+- Role Model and Mentoring
+  - OMA provides students with positive role models/mentors to offer guidance and support as they navigate through the obstacles of their college life.
+
+## COVID-19 Campus Communications
+
+Visit https://case.edu/studentlife/healthcounseling/health-serviceshealth-updates-faq/covid-19-campus-communications for recent messages to the CWRU community.
+
+## Special Needs
+
+Students who wish to request accommodation for a disability may do so by registering with the [Disability Resources Office at the Division of Student Affairs](https://case.edu/studentlife/disability/). Students with special needs should then make an appointment with Dr. Love at their earliest opportunity to discuss any accommodations that need to be made.

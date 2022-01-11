@@ -1,0 +1,111 @@
+\contentsline {chapter}{Welcome!}{7}{chapter*.2}
+\contentsline {section}{Working With This Document}{7}{section*.3}
+\contentsline {section}{Who, When and Where?}{7}{section*.4}
+\contentsline {section}{Course Home Page}{8}{section*.5}
+\contentsline {chapter}{\numberline {1}Learning During a Pandemic}{9}{chapter.1}
+\contentsline {section}{\numberline {1.1}In case of emergency}{10}{section.1.1}
+\contentsline {chapter}{\numberline {2}Getting Started}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}As Soon As Possible}{11}{section.2.1}
+\contentsline {section}{\numberline {2.2}``Welcome to 432'' Survey}{11}{section.2.2}
+\contentsline {section}{\numberline {2.3}What Do I Need To Buy?}{12}{section.2.3}
+\contentsline {section}{\numberline {2.4}What Software Do I Need to Install?}{12}{section.2.4}
+\contentsline {section}{\numberline {2.5}What Other Connections Do I Need to Make?}{12}{section.2.5}
+\contentsline {chapter}{\numberline {3}Course Description}{15}{chapter.3}
+\contentsline {section}{\numberline {3.1}General Approach / Topics}{15}{section.3.1}
+\contentsline {section}{\numberline {3.2}Prerequisites}{16}{section.3.2}
+\contentsline {section}{\numberline {3.3}Everything is on the Web}{17}{section.3.3}
+\contentsline {chapter}{\numberline {4}Getting Help with 432}{19}{chapter.4}
+\contentsline {section}{\numberline {4.1}TA Office hours provide one-on-one help}{19}{section.4.1}
+\contentsline {section}{\numberline {4.2}Piazza is the place to ask questions 24/7}{20}{section.4.2}
+\contentsline {section}{\numberline {4.3}Meeting with Professor Love}{20}{section.4.3}
+\contentsline {chapter}{\numberline {5}Professor Love}{21}{chapter.5}
+\contentsline {section}{\numberline {5.1}A More Complete Biography}{21}{section.5.1}
+\contentsline {section}{\numberline {5.2}Email}{23}{section.5.2}
+\contentsline {section}{\numberline {5.3}Name and Pronouns}{23}{section.5.3}
+\contentsline {section}{\numberline {5.4}Web}{23}{section.5.4}
+\contentsline {chapter}{\numberline {6}Teaching Assistants}{25}{chapter.6}
+\contentsline {section}{\numberline {6.1}Getting To Know The TAs}{26}{section.6.1}
+\contentsline {subsubsection}{Stephanie Merlino Barr}{26}{section*.6}
+\contentsline {subsubsection}{Wyatt Bensken}{26}{section*.7}
+\contentsline {subsubsection}{Ali Elsharkawi}{27}{section*.8}
+\contentsline {subsubsection}{Shiying Liu}{27}{section*.9}
+\contentsline {subsubsection}{Marie Michenkova}{27}{section*.10}
+\contentsline {subsubsection}{Julia Yang Payne}{28}{section*.11}
+\contentsline {subsubsection}{Monika Strah}{28}{section*.12}
+\contentsline {subsubsection}{Yanning Wu}{29}{section*.13}
+\contentsline {section}{\numberline {6.2}TA office hours}{29}{section.6.2}
+\contentsline {chapter}{\numberline {7}Required Texts}{31}{chapter.7}
+\contentsline {section}{\numberline {7.1}Professor Love's Materials}{31}{section.7.1}
+\contentsline {section}{\numberline {7.2}Two Books To Purchase}{31}{section.7.2}
+\contentsline {section}{\numberline {7.3}Three Books to Download}{32}{section.7.3}
+\contentsline {section}{\numberline {7.4}Key Articles and Posts}{32}{section.7.4}
+\contentsline {chapter}{\numberline {8}Other Worthy (and Free) Resources}{35}{chapter.8}
+\contentsline {section}{\numberline {8.1}Data Visualization Books}{35}{section.8.1}
+\contentsline {section}{\numberline {8.2}Statistics/Data Analysis/Data Science Books}{35}{section.8.2}
+\contentsline {section}{\numberline {8.3}R and R Markdown Books}{36}{section.8.3}
+\contentsline {section}{\numberline {8.4}Blogs and Internet Columns}{36}{section.8.4}
+\contentsline {section}{\numberline {8.5}Resources for Learning R}{37}{section.8.5}
+\contentsline {section}{\numberline {8.6}Videos about R and Data Science}{37}{section.8.6}
+\contentsline {section}{\numberline {8.7}Podcasts}{38}{section.8.7}
+\contentsline {section}{\numberline {8.8}Books on related topics}{38}{section.8.8}
+\contentsline {chapter}{\numberline {9}On Software, and R}{41}{chapter.9}
+\contentsline {section}{\numberline {9.1}Getting the Software}{41}{section.9.1}
+\contentsline {section}{\numberline {9.2}From the 431 Syllabus}{41}{section.9.2}
+\contentsline {section}{\numberline {9.3}R and RStudio}{42}{section.9.3}
+\contentsline {section}{\numberline {9.4}System Requirements}{43}{section.9.4}
+\contentsline {section}{\numberline {9.5}Why do we teach R, instead of SPSS or SAS or whatever, in 431-432?}{43}{section.9.5}
+\contentsline {section}{\numberline {9.6}Getting Started With R, RStudio and Tidy Statistics}{44}{section.9.6}
+\contentsline {section}{\numberline {9.7}For those of you worried about coding, software, or R}{44}{section.9.7}
+\contentsline {chapter}{\numberline {10}Assignments and Grading}{47}{chapter.10}
+\contentsline {section}{\numberline {10.1}Timing and Deadlines}{47}{section.10.1}
+\contentsline {section}{\numberline {10.2}Minute Papers (and Class Participation)}{47}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}Participation}{48}{subsection.10.2.1}
+\contentsline {section}{\numberline {10.3}Labs}{48}{section.10.3}
+\contentsline {subsection}{\numberline {10.3.1}A few tips for Early Lab Work}{49}{subsection.10.3.1}
+\contentsline {subsection}{\numberline {10.3.2}Grading Labs}{49}{subsection.10.3.2}
+\contentsline {section}{\numberline {10.4}Appeal Policy and Regrades}{49}{section.10.4}
+\contentsline {section}{\numberline {10.5}Quizzes}{50}{section.10.5}
+\contentsline {subsection}{\numberline {10.5.1}Piazza and the Quizzes}{51}{subsection.10.5.1}
+\contentsline {subsection}{\numberline {10.5.2}About the Quizzes}{51}{subsection.10.5.2}
+\contentsline {section}{\numberline {10.6}Projects}{52}{section.10.6}
+\contentsline {section}{\numberline {10.7}Final Grade}{52}{section.10.7}
+\contentsline {chapter}{\numberline {11}Course Policies}{55}{chapter.11}
+\contentsline {section}{\numberline {11.1}Emergency Policy}{55}{section.11.1}
+\contentsline {section}{\numberline {11.2}Regrade Policy}{55}{section.11.2}
+\contentsline {section}{\numberline {11.3}Other Course Policies}{56}{section.11.3}
+\contentsline {section}{\numberline {11.4}Frequently Asked Questions}{57}{section.11.4}
+\contentsline {subsection}{\numberline {11.4.1}Can I audit the course?}{57}{subsection.11.4.1}
+\contentsline {subsection}{\numberline {11.4.2}Is it possible to take the course pass/fail?}{57}{subsection.11.4.2}
+\contentsline {subsection}{\numberline {11.4.3}How will I know how I'm doing in the class?}{57}{subsection.11.4.3}
+\contentsline {subsection}{\numberline {11.4.4}Does the 432 course assume we have completed 431?}{57}{subsection.11.4.4}
+\contentsline {subsection}{\numberline {11.4.5}Do I have to be in Cleveland to take this course?}{58}{subsection.11.4.5}
+\contentsline {subsection}{\numberline {11.4.6}Will all class materials be available to me online?}{58}{subsection.11.4.6}
+\contentsline {subsection}{\numberline {11.4.7}How do I get connected to Zoom through CWRU?}{58}{subsection.11.4.7}
+\contentsline {subsection}{\numberline {11.4.8}What if I lose my internet connection during a Zoom class?}{58}{subsection.11.4.8}
+\contentsline {chapter}{\numberline {12}Advice for Graduate Students}{59}{chapter.12}
+\contentsline {section}{\numberline {12.1}On Graduate School}{59}{section.12.1}
+\contentsline {section}{\numberline {12.2}On Seeking a Job}{60}{section.12.2}
+\contentsline {chapter}{\numberline {13}On Writing, Presenting \& Communicating}{61}{chapter.13}
+\contentsline {section}{\numberline {13.1}Campus Resources}{61}{section.13.1}
+\contentsline {section}{\numberline {13.2}Advice from Other People}{62}{section.13.2}
+\contentsline {section}{\numberline {13.3}A Few Tips from Professor Love}{62}{section.13.3}
+\contentsline {chapter}{\numberline {14}One More Thing}{65}{chapter.14}
+\contentsline {chapter}{\numberline {15}University Resources for Student Support}{67}{chapter.15}
+\contentsline {section}{\numberline {15.1}CWRU CARE (NEW Virtual Mental Health option)}{67}{section.15.1}
+\contentsline {section}{\numberline {15.2}School of Graduate Studies}{68}{section.15.2}
+\contentsline {section}{\numberline {15.3}Office of Student Affairs}{68}{section.15.3}
+\contentsline {section}{\numberline {15.4}International Student Services}{69}{section.15.4}
+\contentsline {section}{\numberline {15.5}University Health Services}{69}{section.15.5}
+\contentsline {section}{\numberline {15.6}University Counseling Services}{69}{section.15.6}
+\contentsline {section}{\numberline {15.7}Educational Services for Students}{70}{section.15.7}
+\contentsline {section}{\numberline {15.8}English Language Resources}{70}{section.15.8}
+\contentsline {section}{\numberline {15.9}Writing Resource Center}{71}{section.15.9}
+\contentsline {section}{\numberline {15.10}University Libraries}{71}{section.15.10}
+\contentsline {section}{\numberline {15.11}Access Services}{71}{section.15.11}
+\contentsline {section}{\numberline {15.12}Office of Financial Aid}{72}{section.15.12}
+\contentsline {section}{\numberline {15.13}Lesbian, Gay, Bisexual, and Transgender Center}{72}{section.15.13}
+\contentsline {section}{\numberline {15.14}Flora Stone Mather Center for Women}{73}{section.15.14}
+\contentsline {section}{\numberline {15.15}Office of Inclusion, Diversity and Equal Opportunity}{73}{section.15.15}
+\contentsline {section}{\numberline {15.16}Office of Multicultural Affairs}{74}{section.15.16}
+\contentsline {section}{\numberline {15.17}COVID-19 Campus Communications}{74}{section.15.17}
+\contentsline {section}{\numberline {15.18}Special Needs}{75}{section.15.18}

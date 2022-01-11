@@ -1,0 +1,45 @@
+# Getting Started
+
+## As Soon As Possible
+
+1. Register and enroll in the course via the [CWRU Student Information System (SIS)](https://sis.case.edu/).
+    - Note that PQHS 432, CRSP 432 and MPHP 432 are all identical. Students outside of the CRSP and MPH programs should enroll in PQHS 432.
+2. The Zoom link to register for the first four class sessions is available now via [Canvas](https://canvas.case.edu/) for all registered students, and Dr. Love sent all enrolled students an email with the subject line "PQHS / CRSP / MPHP 432 begins Tuesday at 1 PM" on 2022-01-09 which also contains this information.
+3. Review [the course website](https://thomaselove.github.io/432/) and this syllabus. 
+4. Complete the [Welcome to 432 Survey](https://bit.ly/432-2022-welcome-survey) described below.
+
+## "Welcome to 432" Survey 
+
+Please fill out the [Welcome to 432 Survey](https://bit.ly/432-2022-welcome-survey) to help us get to know you a little better.
+
+- Note that you must **log into Google via your CWRU account** in order to access the survey.
+- The survey should take approximately 15 minutes to complete, and we encourage you to complete it as soon as you can. A deadline is provided on the [Course Calendar](https://thomaselove.github.io/432/calendar.html).
+
+## What Do I Need To Buy?
+
+We'll read two books that you need to purchase:
+
+1. Nate Silver's **The Signal and the Noise**, available [on Amazon](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087) for about $20. 
+    - The 2013 or 2015 edition is sufficient for 432, and either an electronic or paper version is fine. In 2020, Nate added a new preface, which is interesting, but not critical.
+2. Jeff Leek's **How to be a Modern Scientist** available as an ebook [on Leanpub](https://leanpub.com/modernscientist) for a suggested $10.
+
+Everything else is free, and is described in detail in the rest of this syllabus or on the course website.
+
+## What Software Do I Need to Install?
+
+[Software installation instructions](https://thomaselove.github.io/432/software_install.html) are available on the course website in the [R and Data section](https://thomaselove.github.io/432/software_install.html). You'll be installing (or updating):
+
+- R (we recommend version 4.1.2 or later)
+- RStudio Desktop (we recommend version 2021.09.1+372 or later)
+- several [R packages](https://thomaselove.github.io/432/r_packages.html)
+
+## What Other Connections Do I Need to Make?
+
+To successfully complete the course, you'll need to use the following tools, in addition to those specified above.
+
+1. Your Google account through CWRU, from which you'll access many Google Forms for the course, some additional Google Docs (to obtain lab grades and other feedback) and access to materials Dr. Love cannot share via Github. Dr. Love will share the drive with all registered students.
+2. The [Canvas course management system](https://canvas.case.edu/), where you'll access downloadable Zoom recordings and submit many of our assignments.
+3. The [Piazza course discussion board](https://piazza.com/case/spring2022/pqhs432) for connecting to your fellow classmates, the teaching assistants and Dr. Love at any time to ask and answer questions about the course.
+4. The course Github repository at https://github.com/THOMASELOVE/432-2022 and several related repositories such as https://github.com/THOMASELOVE/432-data. You will also want to get yourself a (free) Github account at https://github.com/join so you can establish a presence online.
+5. The RStudio Community at https://community.rstudio.com/ has been very helpful in the past to some students. You may want to establish an account there, too, to link yourself to the broader community of RStudio users, but this is optional.
+

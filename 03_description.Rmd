@@ -1,0 +1,45 @@
+# Course Description
+
+PQHS 432 (cross-listed as CRSP 432 and MPHP 432, and formerly known as EPBI 432) is the second half of a two-semester sequence (with PQHS 431) focused on modern data analysis and advanced statistical modeling, with a practical bent (as little theory as possible), emphasizing the key role of thinking hard, and well, about design and analysis in research. The title listed by the registrar is a little dated - I prefer *Data Science for Biological, Medical or Health Research*.
+
+This is a good course for people who want to learn how to use the R language to get information from data, and who want to learn about making comparisons and building models to help make meaningful progress in research, focusing on questions from biology, medicine and public health. We spend time managing and visualizing data, building models and making predictions, and other things thought of as "data science" - in essence, this highly applied course focuses on modern, more than classical, tools for learning from data. The course is taught using the R statistical software and RStudio environments, with the material discussed in 431 assumed in 432. Students learned a lot of R in the 431 course, and that material remains available at https://thomaselove.github.io/431/ until 2022-06-01. We'll continue to use R Studio and R Markdown as tools to help make R work better, and perform our research in replicable ways.
+
+## General Approach / Topics
+
+The course covers the following general topics, roughly in this order, through early April. Additional topics (for the remainder of April) will be determined later in the semester.
+
+1. Dealing with interaction and other forms of non-linearity in regression models by spending degrees of freedom on non-linear terms, particularly through the [Harrell "verse"](https://www.nicholas-ollberding.com/post/an-introduction-to-the-harrell-verse-predictive-modeling-using-the-hmisc-and-rms-packages/).
+2. Using regression methods for different purposes (exploring associations, making predictions, assessing cause and effect).
+3. Logistic regression and generalized linear models for binary, count and multi-categorical outcomes.
+4. Using [tidymodels](https://www.tidymodels.org/) approaches to build models in a more automated, tidier way, and to use more modern (robust and/or Bayesian) regression fitting strategies.
+5. Variable selection and its woeful performance in real situations.
+6. The statistical crisis in science, and how though statistical significance and p values are especially problematic, [science isn't broken](https://fivethirtyeight.com/features/science-isnt-broken/).
+7. Retrospective assessments and issues related to sample size, especially post hoc power estimates.
+8. Dealing with time-to-event (survival) data, with an introduction to censoring, Kaplan-Meier curves and Cox models.
+9. Using sampling weights to mirror populations in modeling results (NHANES being a prime example).
+10. An introduction to dealing with hierarchical data, especially when confronted with repeated measures.
+11. Doing replicable research, and how to be a modern scientist with a web presence.
+
+Within the realm of modeling, our linear regression work will include discussions of weighted and robust approaches, variable selection, dealing with missing data, fitting non-linear relationships through predictor transformation, cross-validation approaches, and multi-factor ANOVA and ANCOVA. In terms of logistic regression, we'll encounter models for binary outcomes, for proportions, and for risk adjustment. We'll also touch on models for count data and multi-categorical outcomes.
+
+## Prerequisites
+
+Taking 432 without 431 is not recommended. The pace can be brisk at times, but all CWRU students who feel up to it are welcome, in any field of study. 
+
+The main things students need for 432 are:
+
+- tools: substantive knowledge of the use of R, R Studio and R Markdown to produce code which will ingest, visualize, explore, analyze and model data, then communicate the results
+- statistical methodology: substantive understanding of statistical inference in the one-, two- and multi-sample cases and the fundamentals of linear regression models, including the building of multiple linear regressions, and their evaluation through diagnostic plots, stepwise model selection, assessment of uncertainty via confidence and prediction intervals, and basic in-sample and out-of sample validation summaries
+- data to study related to biological, health, medical, scientific or other phenomena, and 
+- an interest in studying data closely and presenting rigorous analyses effectively
+
+Some of these topics are reviewed in early 432 sessions.
+
+## Everything is on the Web
+
+https://thomaselove.github.io/432/ is the place to go for everything related to this course. Please visit any time you need something. I update the web site frequently. 
+
+- The most important thing is the [Course Calendar](https://thomaselove.github.io/432/calendar.html) which serves as the final word for all deadlines, plus links to all classes and deliverables.
+- Dr. Love's course notes will serve as the principal textbook for the course, and will appear during the semester. The [current version](https://thomaselove.github.io/432-notes/) is available now. Dr. Love will likely update it during the semester.
+
+

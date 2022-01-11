@@ -1,0 +1,148 @@
+# Assignments and Grading
+
+Course assignments include (in increasing order of the time you will spend):
+
+- Ten minute papers (along with other elements of class participation)
+- Six labs
+- Two quizzes, and
+- Two projects
+
+The [course website](https://thomaselove.github.io/432/) links to detailed and specific descriptions regarding each of these deliverables. This syllabus material describes each in general terms, and provides some guidance on logistics, expectations and grading.
+
+## Timing and Deadlines
+
+The [Calendar](https://thomaselove.github.io/432/calendar.html) is the exclusive home for all deadlines in the course. Dr. Love will always go there to figure out when something is due, and if a change is made, it isn't official until it appears on the Calendar.
+
+## Minute Papers (and Class Participation)
+
+During the semester, there are **ten** Minute Papers scheduled. In this class, a Minute Paper is a short survey (completed using a Google Form) where you will answer a few questions about how the course is going for you. To complete the Minute Paper, you'll need to log into Google with your CWRU account. The pre-class ["Welcome to 432" survey]["Welcome to 432" Survey] uses a similar format, but is more extensive than a typical Minute Paper. 
+
+Each Minute Paper should take no more than ten minutes to complete, and is best done right at the end of Tuesday's class. The Minute Papers are due at noon Wednesday to give you some time to reflect, if you'd like, or if you're in a hurry at the end of Tuesday's class.
+
+You **should** complete the Minute Paper even if you haven't attended the most recent class.
+
+### Participation
+
+We cannot emphasize enough how much we want to hear from you about things that are relevant to this course. 
+
+1. If you're not shy, ask questions in the Chat during class. Come to the (virtual) TA office hours if you need help.
+2. Contribute to [Piazza](https://piazza.com/case/spring2021/pqhs432) with questions, answers and helpful comments. That'll help us recognize you as someone trying to improve their understanding.
+  - If you find **typos** in the materials (code, slides, the Notes, this syllabus) send them to us on [Piazza](https://piazza.com/case/spring2021/pqhs432). 
+  - See a cool visualization online? A nice use of statistical methods or design in a paper? Share them with us on [Piazza](https://piazza.com/case/spring2021/pqhs432).
+3.  Email Dr. Love if you want to discuss something that doesn't fit on Piazza or in a conversation with a TA. Visit with him before or after class. Make an appointment to talk with him if you have something to discuss that doesn't work well in email. 
+  - It's always helpful if Dr. Love knows who you are, and this is an especially difficult thing to achieve remotely.
+
+## Labs
+
+During the semester, there are **six** lab assignments scheduled. Professor Love reserves the right to change the number of labs (or to create optional "bonus" labs) depending on how the class is going during the semester. 
+
+- Most require straightforward demonstrations of mastery for core principles and fundamental skills. Some require deeper dives into more technically sophisticated material. 
+- Most labs ask you to clean/visualize/analyze some data that we provide to you, and also to react to something we're reading at the same time in the Silver or Leek books. 
+- You should anticipate that some coding in R **and** writing at least one essay will be required in most labs.
+
+Each lab includes instructions as to how to make your submission, usually through [Canvas](https://canvas.case.edu). The course's primary listing on Canvas is PQHS 432, but students in CRSP 432 and MPHP 432 should find the same information. The link to post your responses for each Lab will appear in time for you to submit the work, usually just after the deadline for the preceding Lab has passed. 
+
+Each lab is associated with a deadline. Late work is permitted, but penalized (see the Grading section below.)
+
+### A few tips for Early Lab Work
+
+1. When writing anything for this course in English, use complete sentences, not just bullet points.
+2. Clearly mark each Question in each Lab. There is no need to repeat the question before answering it, although you are welcome to do so.
+3. You are welcome to discuss each Lab with anyone, including Professor Love, the teaching assistants, or your colleagues, but your answer must be prepared by you alone. We especially encourage you to take advantage of TA office hours and [Piazza](https://piazza.com/case/spring2022/pqhs432).
+4. In general, we do not guarantee to provide answers to questions on Piazza that we receive in the last 12 hours before a Lab is due, although we will continue to hold TA office hours up to the deadline. Try not to leave things until the last day. Allow time for computer problems.
+
+More information (and links to the actual Lab assignments) will be found on [our main course web site](https://thomaselove.github.io/432/).
+
+### Grading Labs
+
+Labs are graded by the Teaching Assistants, according to a rubric and answer sketch, developed by the instructional staff for the course, including Dr. Love. Everything counts, including the quality of the presentation, as well as the coding and statistical work.
+
+For each Lab, we publish a detailed answer sketch (typically at noon on the day after the deadline). By the time grades become available (roughly one week after the deadline) you will also receive the grading rubric, though we sometimes include this with the sketch. Along with the grade, on-time labs will receive modest feedback about the work.
+
+- The required labs are each due on Mondays at 9 PM Eastern time. See the [Calendar](https://thomaselove.github.io/432/calendar.html) for all deadlines.
+
+
+## Appeal Policy and Regrades
+
+Clarification of concerns related to potential typographical or other errors in our Lab answer sketches is welcome at any time, but haggling over points on assignments can be a real time sink in a large class. 
+
+To that end, students are **requested not to dispute** any grading on Labs during the semester. 
+
+Should you receive a lower grade on a Lab than you feel you deserve based on the feedback the TA provides, the answer sketch and the grading rubric, you can simply submit a request for a regrade by Professor Love through the Google Form which (once Lab 1 is graded) will be found at http://bit.ly/432-2022-lab-regrade-requests. You must log into Google via CWRU to see the form.
+
+In May, **after** Professor Love has worked out what letter grade to give each student, he will go through the requests on the form and determine for each whether the student's letter grade would change if all of the points in dispute were granted. If the answer is no, then he won't even look at the disputed grade(s). If the answer is yes, then he will look very carefully to see if enough extra points are merited to change a grade. (It will not help your case to submit frivolous requests.)
+
+- On the [course Labs page](https://github.com/THOMASELOVE/432-2022/tree/master/labs), we will include a section about Grading Errors and Regrade Requests repeating this information. 
+    - If you wish to dispute a grade, fill out the form at any time before the deadline in May. You can edit the form after submitting it so that you can add additional requests up until the end of the semester.
+    - All forms must be submitted by the deadline on the Course Calendar.
+    - Professor Love is responsible for all final grading decisions, and if you have a concern, you should submit your request through the form.
+    
+The TAs and Professor Love are happy to discuss in a general sense any questions about an assignment, but no grades will be changed until the end of the term. 
+    - The one exception is if there is a mistake in adding up points, or some similar clerical error. If you find such an issue, please bring it to Professor Love's attention via email, and he will resolve it immediately.
+
+The main advantage of this system is that it saves all of us the hassle of haggling over points that are never going to mean anything anyway. It also provides "equal access" to students who are too timid to express their concerns. Finally, if there is an issue with grading a particular problem or assignment that needs to be reconsidered, Professor Love will have access to all papers and can make a universal decision. Incidentally, this idea comes from Jessica Utts at http://www.amstat.org/publications/jse/v22n2/rossmanint.pdf.
+
+## Quizzes
+
+During the semester, you will have two quizzes to complete. Each quiz is taken online via a Google Form (like the Minute Papers or the ["Welcome to 432" survey]["Welcome to 432" Survey].) Each quiz includes both short-answer and multiple-choice items. The quizzes focus on whether you can apply the tools developed in class to address small problems.
+
+Each quiz will be designed to take about 6 hours to complete, so the time pressure should be minimal. **If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible**, at least a week before a Quiz is released.
+
+### Piazza and the Quizzes
+
+As we've discussed, for most of the course, [Piazza](https://piazza.com/case/spring2022/pqhs432) will be our tool for asking and answering questions. 
+
+**However, for questions about the Quizzes**, we will provide an alternate method for you to ask questions of Dr. Love and the Teaching Assistants, and we will share that approach at the top of each Quiz as they become available.
+
+### About the Quizzes
+
+1. Quizzes typically involve 20-30 questions. 
+2. The questions are not arranged in any particular order, and you should answer all questions.
+3. All questions involve relatively short responses, sometimes after working through a detailed analysis.
+4. You will have the opportunity to edit your responses after completing the Quiz, but this must be completed by the deadline.
+5. You are welcome (even encouraged) to consult the materials provided on the course website, but you are **not** allowed to discuss the questions on the Quizzes with anyone other than Professor Love or the teaching assistants.
+6. We do not guarantee to answer questions we receive about the Quiz less than 3 hours prior to the Quiz submission deadline. As noted above, we will **not** use Piazza for Quiz questions, but instead an alternate approach we will provide to you with each quiz.
+7. Quizzes that are more than an hour late will **not** be accepted, except in truly remarkable circumstances.
+8. An answer sketch for each Quiz will be made available within 48 hours of the deadline. 
+9. Grades for the Quizzes are usually available within 48 hours of the deadline. 
+10. If you feel Professor Love has made an error in grading your Quiz, please let him know directly, by email, as soon as possible.
+
+For more information on the Quizzes, please visit [our main course web site](https://thomaselove.github.io/432/).
+
+## Projects
+
+During the semester, you will have two projects to complete. 
+
+- Project A anticipates you using materials from the first 12 classes.
+- Project B anticipates you using materials from the first 25 classes.
+
+For more information on the Projects, please visit [our main course web site](https://thomaselove.github.io/432/).
+
+## Final Grade
+
+Over the past five years, all students taking the course have eventually earned either an "A", a "B" or an "Incomplete" in 432. I don't see a reason why this won't also be the case this year.
+
+Grading standards apply in the same way for all students, regardless of whether they are enrolled in PQHS 432, CRSP 432 or MPHP 432. The courses are identical.
+
+The course grade is based on four key areas of demonstrated accomplishment. 
+
+Course grades are based primarily on performance on labs, projects and quizzes. Your grade on each of these three elements will be determined separately, using a process I will describe in a later version of the Syllabus, to be posted soon. Then I will combine these elements as follows:
+
+Element | Weight 1 | Weight 2 | Weight 3 | Weight 4
+------- | :--------: | :--------: | :--------: | :--------:
+Labs | 35% | 30% | 25% | -
+Projects | 45% | 40% | 35% | -
+Quizzes | 25% | 20% | 15% | -
+Participation | - | - | - | 10%
+
+Among Labs, Projects and Quizzes, your element with the strongest score will receive Weight 1, your element with the second strongest score will receive Weight 2 and your element with the weakest score will receive weight 3. The Class Participation score is worth 10% for all students.
+
+I will determine your final course grade using the following scale:
+
+- course averages of 89% to 100% will receive a A
+- course averages of 85% to 88% will be reviewed more closely to determine whether the grade will be A or B
+- course averages of 70% to 84% will receive a B
+
+For students in the 85-88% range, students who have improved from the first half of the course to the second will be more likely to receive an A than those whose performance has declined. 
+
+Students whose course average is near or below 70% will usually need to take an Incomplete to improve their work before I assign a final grade.

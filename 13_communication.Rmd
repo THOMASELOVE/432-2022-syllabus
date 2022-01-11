@@ -1,0 +1,48 @@
+# On Writing, Presenting & Communicating
+
+I write all the time. It's my job. It's yours, too. You'll do more of it here than you may be expecting in this class, and in life. So you'll need to take advantage of every opportunity you have to write more effectively tomorrow than you do today.
+
+Here's what I find to be a compelling argument from George Cobb ... 
+
+> If you want your work with data to make a difference, devote time and effort to choosing the words and pictures you use to present your evidence and conclusions.  If you teach or supervise, seek to reward those - they who learn from you, and they who report to you -- when they spend time crafting their message.
+
+> Think back to the last "report" you were expected to read.  Is it easy to recall the main points?  The answer, yes or no, depends not so much on the quality of the data, the effort, and the thinking that went into the report, nor on your own dutiful diligence in reading the report, but rather, and mainly, on whether the people who wrote the report had learned and practiced the skills of how to use words and pictures, first, to claim attention, and second, to claim retention:  to deliver a message that sticks in the mind.
+
+## Campus Resources
+
+The [University Resources for Student Support][University Resources for Student Support] section in this Syllabus lists several important resources for improving your English and your communication skills, most of which will be available remotely after the first week of the semester. We strongly encourage you to take advantage of these resources.
+
+## Advice from Other People
+
+1. [Preparing Manuscripts for Submission to Medical Journals: The Paper Trail](https://pdfs.semanticscholar.org/48a8/88d557e694e17444cb6686c472753ccc66df.pdf) by H. Gilbert Welch, from *Effective Clinical Practice* in 1999.
+    - Start early, focus on high-visibility components, develop a systematic approach to the body of the paper, finish strong. 
+    - Use [thinkchecksubmit](https://thinkchecksubmit.org/) and [see this tweet](https://twitter.com/laura_tastic/status/1026573387429228551) for some related suggestions when selecting a journal or publisher for your work.
+2. [Writing a Scientific Paper in Four Easy Steps](https://serialmentor.com/blog/2013/8/29/writing-a-scientific-paper-in-four-easy-steps) from Claus Wilke at [The Serial Mentor blog](https://serialmentor.com/).
+3. [Rules to write a good research paper](https://lemire.me/blog/rules-to-write-a-good-research-paper/) from Daniel Lemire.
+4. [Hey-here are some tips on communicating data and statistics!](https://statmodeling.stat.columbia.edu/2017/06/02/hey-tips-communicating-data-statistics/) from Andrew Gelman 2017-06-02.
+5. [Writing Pet Peeves: Correctness, References, and Style](https://www.cs.ubc.ca/~tmm/writing.html) from Tamara Munzner. 
+6. Frank Harrell's [Checklist for Authors of Statistical Problems to Document and to Avoid](http://biostat.mc.vanderbilt.edu/wiki/Main/ManuscriptChecklist)
+
+## A Few Tips from Professor Love
+
+1. Statistics is a "getting the details right" business - we care deeply about details, and this applies to writing code or complete English sentences. RStudio has a spell-checker. To use it, click F7.
+2. Nothing impresses us as much as a clear and concise argument, presented using well-written English sentences, effective and well-labeled figures and tables.
+3. Don't parrot back material that Professor Love wrote or said. State ideas in your own words. Stating them in my words is, technically, plagiarism.
+4. Edit your more adventurous output;  don't present everything you know how to do in R, and don't forget that someone is trying to read both your code and your results.
+5. Make your work easy to evaluate. In responding to an assignment, be sure to answer the question that was asked, restating it as necessary. 
+6. Clearly label everything: graphs, tables, your answer to a specific question. Everything. Again, make your work easy to evaluate. 
+7. Simplify. Emphasize ideas in plain language. Avoid jargon. Use English well.
+8. Data are plural. Use "the data **are** ..." rather than ``the data *is* ... ''
+9. A paragraph must contain more than one sentence.  
+10. Don't switch tenses. If you want to write in the present tense, stick to it throughout.
+11. Don't write or say random sample unless you used a random number generator.  If you used haphazard sampling or convenience sampling, call it what it is, and indicate whether any problems could have cropped up as a result. 
+12. Similarly, don't defend a method of data collection because it is random. Most of the time we want to represent some population, and a random sample is just one way to ensure that certain types of biases have a low probability of creeping in.
+13. If you want to write that you used $\alpha = 0.05$ as your significance level, then state that your results were obtained using a 95% confidence level, not a 95% confidence interval, unless you are actually interpreting a confidence interval.  
+14. If you find yourself in the appalling situation of writing about a *p*-value, then you should state something like: 
+    + [1] We're using a 95% confidence level.
+    + [2] We're using a 5% significance level.  
+    + [3] We're using $\alpha = 0.05$.  
+    + Don't use more than one of these expressions.
+15. Again, don't use *p*-values in most settings, but if you must, refer to all *p*-values that are less than 0.001 or perhaps less than 0.0001 as $p < 0.001$, rather than, for instance, $p = 0.00000001$ or, worse yet, $p = 0$. In a similar vein, write all $p$-values that exceed 0.99 as $p > 0.99$ instead of, for instance, $p  = 1$. 
+16. To the extent possible, don't use `computer-ese` to label variables, plots or tables.  R and Markdown allow you to change the labels on graphs and tables to meaningful things -- do so.  Use meaningful abbreviations, as necessary, explaining what they mean on the first usage.
+17. When in doubt, err on the side of clarity. Clear thinking, clear writing.

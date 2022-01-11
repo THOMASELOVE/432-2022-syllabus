@@ -1,0 +1,81 @@
+# On Software, and R
+
+We assume all students in this class have an understanding of R, R Studio and R Markdown at the level of those who have completed 431. The materials from the 431 course this past Fall will remain available at https://thomaselove.github.io/431/ until 2022-06-01.
+
+## Getting the Software
+
+Instructions are available at https://thomaselove.github.io/432/ in the R and Data section on the top menu. Everything is free, but it does require some patience to get control over your computer.
+
+You will need to:
+
+1. Download and install/update to the latest version of R (version 4.1.2. or later)
+2. Download and install/update to the latest version of RStudio (version  2021.09.1+372 or later)
+3. Install some R packages
+4. Download 432 data and code developed for this course
+5. Obtain a free Github user account if you don't have one already.
+
+## From the 431 Syllabus
+
+The remainder of this chapter comes from the 431 syllabus, and lays out some of the fundamental ideas and bits of encouragement I built for those folks this past Fall, and most of this is still relevant now.
+
+The course makes heavy use of the R statistical programming language, and several related tools, most especially the RStudio development environment. Every bit of this software is free to use, and open-source.
+
+You will need access to a computer to do your work for this class, not just an iPad or other tablet, but an actual computer. You do not need a state of the art machine, nor should you need any special hardware to run things for this course. 
+
+- There will be many people in the course for whom R is a new experience. I assume no prior R work in the course. You will know a fair amount of R (and some other things, too) after taking the course, though.
+- We'll also be using the R Markdown tool within RStudio. R Markdown will be taught in our class, and can be used to generate reproducible reports that appear as .html files, PDF files or Word documents, among other things.
+- For some people, working with R is the best part of the class, and the part that they're most excited about. 
+- For others, it's a real source of anxiety. We understand and encourage patience. There will definitely be some pain, but our experience is that things are much smoother for most people by the middle of the term than they appear to be at the start. 
+
+## R and RStudio
+
+You will do all of your analysis with the open source (and free!) [programming language R](https://cloud.r-project.org). You will use [RStudio](https://www.rstudio.com/) as the main program to access R. Think of R as an engine and RStudio as a car dashboard. R handles all the calculations and the actual statistics, while RStudio provides a nice interface for running R code.
+
+R is free, but it can sometimes be a pain to install and configure. Learning R can be difficult at first - it's like learning a new language, just like Spanish, French, or Chinese. Hadley Wickham-the chief scientist at RStudio and the author of some amazing R packages you'll be using like `ggplot2` [made this wise observation](https://r-posts.com/advice-to-young-and-old-programmers-a-conversation-with-hadley-wickham/):
+
+> It's easy when you start out programming to get really frustrated and think, "Oh it's me, I'm really stupid," or, "I'm not made out to program." But, that is absolutely not the case. Everyone gets frustrated. I still get frustrated occasionally when writing R code. It's just a natural part of programming. So, it happens to everyone and gets less and less over time. Don't blame yourself. Just take a break, do something fun, and then come back and try again later.
+
+If you're finding yourself taking way too long hitting your head against a wall and not understanding, take a break, talk to the teaching assistants, post questions on Piazza, etc.
+
+I promise you can do this.
+
+Some of this material is also borrowed from Andrew Heiss, for instance, from [here](https://evalf19.classes.andrewheiss.com/syllabus/) and [here](https://econf20.classes.andrewheiss.com/syllabus/).
+
+## System Requirements
+
+You will need access to a computer to do your work for this class, not just an iPad or other tablet, but an actual computer. Whether or not you want to bring that computer to class is up to you. All of the software we will use in this class is either free and open source, or available to you for free through your affiliation with CWRU, so there is nothing to buy in terms of software.
+
+- We've made some effort in terms of course requirements to set the bar low. You do not need a state of the art machine, nor should you need any special hardware to run things for this course.
+- You will need a computer, either PC (running Windows 10 would be helpful) or Macintosh (running a reasonably recent OS), but your choice should be determined by your personal preferences and how you believe you will use the machine in your research life. RStudio and R will look and work the same on either a PC or a Macintosh. 
+- We **do not** recommend the use of a Chromebook for this class.
+- R and RStudio Desktop also run on Linux systems but Dr. Love knows essentially nothing about that. Consult the documentation [at CRAN for R](https://cran.r-project.org/) and [at the download page for RStudio](https://rstudio.com/products/rstudio/download/#download).
+
+## Why do we teach R, instead of SPSS or SAS or whatever, in 431-432? 
+
+1. Because it is by far the better choice for what we're trying to do, which is to help you become effective data scientists. And effective scientists, period. 
+2. Because being a data scientist means writing code and actually doing (not just talking about) replicable research, which R facilitates in an immense variety of ways.
+3. Because R is free to you, me and everyone, and its community is a daily delight.
+
+To read comments from other people on the subject, I suggest reading [Why R?](https://rbasics.netlify.com/2-whyr) from Chester Ismay and Patrick Kennedy.
+
+Also, the question of "Why R and not SPSS?" was nicely addressed by Greg Snow in  [this 2010 post at StackOverflow](https://stackoverflow.com/questions/3787231/r-and-spss-difference)...
+
+> When talking about user friendliness of computer software I like the analogy of cars vs. busses: Busses are very easy to use, you just need to know which bus to get on, where to get on, and where to get off (and you need to pay your fare). Cars on the other hand require much more work, you need to have some type of map or directions (even if the map is in your head), you need to put gas in every now and then, you need to know the rules of the road (have some type of drivers licence). The big advantage of the car is that it can take you a bunch of places that the bus does not go and it is quicker for some trips that would require transfering between busses. Using this analogy programs like SPSS are busses, easy to use for the standard things, but very frustrating if you want to do something that is not already preprogrammed. R is a 4-wheel drive SUV (though environmentally friendly) with a bike on the back, a kayak on top, good walking and running shoes in the passenger seat, and mountain climbing and spelunking gear in the back. R can take you anywhere you want to go if you take time to learn how to use the equipment, but that is going to take longer than learning where the bus stops are in SPSS.
+
+## Getting Started With R, RStudio and Tidy Statistics
+
+If you're interested in getting started with the tools you'll be using before the class gets rolling, the great folks at [RStudio Education](https://education.rstudio.com/learn/beginner/) provide [these 6 ways to begin learning R](https://education.rstudio.com/learn/beginner/). Pick the one that appeals to you, and give it a shot.
+
+- Note that if you're having trouble installing things, you can still learn a lot about R, RStudio and Data Science basics with the interactive tutorials at https://rstudio.cloud/learn/primers.
+- If you're already a strong coder, and have some R experience, there are also [learning pathways for intermediates at RStudio Education](https://education.rstudio.com/learn/intermediate/) which might be appealing to you.
+
+You can do this, and we'll be there to help you.
+
+## For those of you worried about coding, software, or R
+
+- There will be many people in the course for whom R is a new experience. I assume no prior R work in the course. You will know a fair amount of R (and some other things, too) after taking the course, though.
+- We'll also be using the R Markdown tool within RStudio. R Markdown will be taught in our class, and can be used to generate reproducible reports that appear as .html files, PDF files or Word documents, among other things.
+- For some people, working with R is the best part of the class, and the part that they're most excited about. 
+- For others, it's a real source of anxiety. We understand and encourage patience. 
+
+There are many, many online resources to help you with working in R, and we'll point you to many of the best of them during the semester. For now, we suggest those listed above in the Getting Started with R section.

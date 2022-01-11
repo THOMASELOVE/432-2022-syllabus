@@ -1,0 +1,105 @@
+# Other Worthy (and Free) Resources
+
+Many of these resources will come up again in class, but no one can keep up with all of this material. Pick things that interest you to follow up with. And I'm always eager to receive additional suggestions from students in the class. If you find a helpful resource, please suggest it to us on [Piazza](https://piazza.com/case/fall2020/pqhs431/home).
+
+## Data Visualization Books
+
+1. [R Graphics Cookbook, 2nd Edition](https://r-graphics.org/) by Winston Chang
+2. [Data Visualization: A Practical Introduction](http://socviz.co/) by Kieran Healy
+3. [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
+4. [Data Visualization with R](https://rkabacoff.github.io/datavis/) by Rob Kabacoff
+5. [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/) by Carson Sievert
+
+## Statistics/Data Analysis/Data Science Books
+
+1. [The Art of Data Science](https://leanpub.com/artofdatascience) by Roger D. Peng and Elizabeth Matsui (book is also available with lecture videos). An earlier edition is available at [bookdown](https://bookdown.org/rdpeng/artofdatascience/)
+2. [Exploratory Data Analysis with R](https://leanpub.com/exdata) by Roger D. Peng. An earlier edition is available at [bookdown](https://bookdown.org/rdpeng/exdata/)
+3. [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences) by Rafael A. Irizarry and Michael I. Love
+4. [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/) by Susan Holmes and Wolfgang Huber
+5. [Regression Models for Data Science in R](https://leanpub.com/regmods) by Brian Caffo
+6. [Introduction to Data Science: Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) by Rafael A. Irizarry
+7. [Practical Regression and ANOVA using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) by Julian J. Faraway (pdf)
+8. [A First Course in Design and Analysis of Experiments](http://users.stat.umn.edu/~gary/book/fcdae.pdf) by Gary W. Oehlert (pdf)
+
+## R and R Markdown Books
+
+1. [Cookbook for R](http://www.cookbook-r.com/) by Winston Chang
+2. [Learning Statistics with R](https://learningstatisticswithr.com/) and its [bookdown repository](https://learningstatisticswithr.com/book/index.html) by Danielle Navarro
+3. [R Programming for Data Science](https://leanpub.com/rprogramming) by Roger D. Peng. An earlier edition is available at [bookdown](https://bookdown.org/rdpeng/rprogdatascience/)
+4. [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund
+5. [R Markdown for Scientists](https://rmd4sci.njtierney.com/) by Nicholas Tierney
+6. [R Packages](https://r-pkgs.org/) by Hadley Wickham and Jenny Bryan
+7. [What They Forgot to Teach You About R](https://whattheyforgot.org/) by Jenny Bryan and Jim Hester
+8. [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham (2nd edition)
+9. [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) by Garrett Grolemund
+
+## Blogs and Internet Columns
+
+1. Andrew Gelman and friends at [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
+2. [Simply Statistics](https://simplystatistics.org/) by Jeff Leek, Brian Caffo, Roger Peng, Rafael Irizarry and others
+3. Frank Harrell's [Statistical Thinking](https://www.fharrell.com/) blog
+4. [FlowingData](https://flowingdata.com/) by Nathan Yau
+5. [JunkCharts](https://junkcharts.typepad.com/) by Kaiser Fung
+6. New York Times [What's Going On in this Graph?](https://www.nytimes.com/column/whats-going-on-in-this-graph)
+7. [Edward Tufte on the Web](https://www.edwardtufte.com/tufte/)
+8. [Tidy Tuesdays](https://github.com/rfordatascience/tidytuesday): A weekly data project in R from the R for Data Science online learning community
+9. [FiveThirtyEight](https://fivethirtyeight.com/) on Politics, Sports, Science & Health, Economics and Culture (Nate Silver is editor-in-chief)
+
+## Resources for Learning R
+
+1. I recommend the [Community-Sourced Data Science Guide](https://github.com/Chris-Engelhardt/data_sci_guide) of resources for learning data science.
+    - I no longer support DataCamp, and suggest that you don't, either. See [R-Ladies Global on the matter](https://blog.rladies.org/post/statement-about-datacamp/).
+2. [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) are definitely worth your time. In 431, you'll especially like:
+  - Data Transformation with `dplyr`
+  - Data Visualization with `ggplot2`
+  - Data Import
+  - R Markdown
+3. The `swirl` package in R can be a great help for people learning R programming and data science. Find out more about it at http://swirlstats.com/students.html
+4. UCLA's Institute for Digital Research and Education has some great [Data Analysis Examples](https://stats.idre.ucla.edu/other/dae/) using R (and other software.)
+
+## Videos about R and Data Science
+
+1. [Resources from RStudio](https://resources.rstudio.com/) is a great source of all kinds of useful stuff. For example:
+  - [Getting Started with R Markdown](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/)
+  - [Getting Data into R](https://rstudio.com/resources/webinars/getting-data-into-r/)
+  - [Data Wrangling with R and RStudio](https://www.rstudio.com/resources/webinars/data-wrangling-with-r-and-rstudio/)
+  - [RStudio Essentials](https://rstudio.com/collections/rstudio-essentials/) (Parts 1 and 2 of the Learning, Managing and Programming tracks are likely to be of greater interest in 431.)
+  - [Data Science Essentials](https://resources.rstudio.com/the-essentials-of-data-science)
+  - [RStudio Webinars](https://resources.rstudio.com/webinars) on a variety of subjects, most of which are gathered in [this YouTube playlist](https://www.youtube.com/playlist?list=PL9HYL-VRX0oRDOP3T5ojgSnMtQdityqEk) as well.
+2. [Data Wrangling with R and the Tidyverse YouTube Playlist](https://www.youtube.com/playlist?list=PL9HYL-VRX0oQOWAFoKHFQAsWAI3ImbNPk) from Garrett Grolemund
+3. Hadley Wickham's [Whole Game](https://www.youtube.com/watch?v=go5Au01Jrvs)
+4. [Tidy Tuesday Screencasts from David Robinson on YouTube](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ)
+5. [Hans Rosling: The Best Stats You've Ever Seen](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen) TED Talk from 2006.
+6. [This is Statistics: Roger Peng](https://www.youtube.com/watch?v=WMDAR2bZEp0) explains in less than two minutes why statistics is an amazing field.
+7. Mona Chalabi's TED Talk on [3 ways to spot a bad statistic](https://www.ted.com/talks/mona_chalabi_3_ways_to_spot_a_bad_statistic),  2017.
+8. [The beauty of data visualization](https://www.youtube.com/watch?v=5Zg-C8AAIGg) from David McCandless at TEDGlobal 2010.
+9. [Six Types of Questions You Can Ask in a Data Analysis](https://www.youtube.com/watch?v=GRNyEzQ26Ww) from Roger Peng.
+10. [Videos from Coursera's 4 week course "Computing for Data Analysis" in R](https://blog.revolutionanalytics.com/2012/12/coursera-videos.html)
+11. [Learn R by Intensive Practice](https://www.youtube.com/user/TheLearnR) list of tutorials on YouTube.
+12. [Learning R with humorous side projects](https://rstudio.com/resources/rstudioconf-2020/learning-r-with-humorous-side-projects/) from rstudio::conf 2020 and Ryan Timpe.
+13. [R for Graphical Clinical Trial Reporting](https://rstudio.com/resources/rstudioconf-2020/r-for-graphical-clinical-trial-reporting/) from rstudio::conf 2020 and Frank Harrell.
+14. [Effective Visualizations](https://rstudio.com/resources/rstudioconf-2020/effective-visualizations/) from rstudio::conf 2020 and Miriah Meyer.
+15. [State of the Tidyverse](https://rstudio.com/resources/rstudioconf-2020/state-of-the-tidyverse/) from rstudio::conf 2020 and Hadley Wickham.
+16. [How R Markdown changed my life](https://rstudio.com/resources/rstudioconf-2020/how-rmarkdown-changed-my-life/) from rstudio::conf 2020 and Rob Hyndman.
+17. [One R Markdown document: 14 demos](https://rstudio.com/resources/rstudioconf-2020/one-r-markdown-document-fourteen-demos/) from rstudio::conf 2020 and Yihui Xie.
+
+## Podcasts
+
+1. [Risky Talk](https://riskytalk.libsyn.com/) with David Spiegelhalter (author of *The Art of Statistics*) features conversations with the world's top experts in risk and evidence communication addressing urgent, practical challenges: How can doctors communicate the risks and benefits of medical treatment? How should scientists communicate evidence about climate change? How can journalists make numbers meaningful to readers? How should government institutions convey important statistics?
+2. [Not So Standard Deviations](http://nssdeviations.com/) by Hilary Parker and Roger Peng talking about the latest in data science and data analysis in academia and industry.
+    - Episode 100 took place at [rstudio conf::2020 and is available here](https://rstudio.com/resources/rstudioconf-2020/not-so-standard-deviations-episode-100/)
+3. [The Effort Report](http://theeffortreport.com/) by Elizabeth Matsui and Roger Peng talking about life in the academic trenches, telling it "like it is". Every graduate student in this course looking at a career in academia would benefit from listening.
+4. [Casual Inference](https://casualinfer.libsyn.com/) where hosts Lucy D'Agostino McGowan and Ellie Murray talk all things epidemiology, statistics, data science, causal inference, and public health. Sponsored by the American Journal of Epidemiology.
+5. [FiveThirtyEight Model Talk](https://fivethirtyeight.com/tag/model-talk/) where Nate Silver and the rest of the FiveThirtyEight folks get into the weeds of their models for election and sports forecasting and those of other people for things like COVID-19.
+6. [More or Less: Behind the Stats](https://www.bbc.co.uk/programmes/p02nrss1) from Tim Harford and BBC Radio 4
+7. [Stats + Stories](https://statsandstories.net/) from the American Statistical Association and Miami University
+
+## Books on related topics
+
+1. [Broadening Your Statistical Horizons: Generalized Linear Models and Multilevel Models](https://bookdown.org/roback/bookdown-bysh/) by Julie Legler and Paul Roback
+2. [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf) by Bradley Efron and Trevor Hastie (pdf)
+3. [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+4. [*Statistical Rethinking* with `brms`, `ggplot2` and the tidyverse](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/) by A. Solomon Kurz, building off of Richard McElreath's [*Statistical Rethinking* text](http://xcelab.net/rm/statistical-rethinking/) and [freely-available lectures](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI).
+5. [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf) by Allen B. Downey (pdf)
+
+Additional references and links will appear over the course of the semester in the README files associated with each class.
