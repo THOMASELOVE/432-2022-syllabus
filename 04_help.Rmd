@@ -10,9 +10,22 @@ We have eight dedicated and capable [Teaching Assistants][Teaching Assistants] w
 
 You are strongly encouraged to visit the Teaching Assistants during office hours that are convenient for you, whenever you need help with the course. This is the best way to get one-on-one help, or try out a new idea.
 
-- Teaching Assistant (TA) office hours will be held via Zoom, starting on Monday 2022-01-17. 
-  - A detailed schedule will be provided as soon as possible.
-  - Office Hours are held for your benefit. Please visit the TAs, especially if you have questions about how to do things in R, or about the content of the class slides or course notes. They're volunteering their time to help you, and most of them have been in your shoes in previous years. They want to help you!
+TA office hours will be held exclusively via zoom. They begin on Monday 2022-01-17 and continue through Sunday 2022-04-24, other than during Spring Break. Zoom information to join these sessions will be found on [Canvas](https::/canvas.case.edu), and on our Shared Google Drive.
+
+The weekly schedule of TA office hours follows:
+
+Date | Time(s)
+-----: | :---------
+Sunday | 9:30 - 10:30 AM, 5:30 - 7:00 PM, 8:30 - 10:00 PM
+Monday | 5:00 - 6:30 PM, 7:00 - 8:30 PM
+Wednesday | Noon - 1:30 PM
+Thursday | 6:00 - 7:30 PM
+Friday | Noon - 1:00 PM
+Saturday | 10:30 AM - Noon, 3:30 - 5:00 PM
+
+Remember that [Piazza](https://piazza.com/case/spring2022/pqhs432) is available 24 hours a day, 7 days a week for your questions and answers.
+
+- Office Hours are held for your benefit. Please visit the TAs, especially if you have questions about how to do things in R, or about the content of the class slides or course notes. They're volunteering their time to help you, and most of them have been in your shoes in previous years. They want to help you!
   - More [information on the TAs is posted below][Teaching Assistants].
 
 ## Piazza is the place to ask questions 24/7

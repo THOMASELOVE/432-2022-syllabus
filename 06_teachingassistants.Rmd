@@ -86,7 +86,18 @@ Yanning Wu is a first year PhD student in the Epidemiology/Biostatistics program
 
 ## TA office hours
 
-TA office hours will begin on Monday 2022-01-17 and continue through Sunday 2022-04-24, other than during Spring Break. Zoom information to join these sessions will be found on [Canvas](https::/canvas.case.edu). A detailed schedule will be posted here as soon as it is confirmed.
+TA office hours will begin on Monday 2022-01-17 and continue through Sunday 2022-04-24, other than during Spring Break. Zoom information to join these sessions will be found on [Canvas](https::/canvas.case.edu), and on our Shared Google Drive.
+
+The weekly schedule of TA office hours follows:
+
+Date | Time(s)
+-----: | :---------
+Sunday | 9:30 - 10:30 AM, 5:30 - 7:00 PM, 8:30 - 10:00 PM
+Monday | 5:00 - 6:30 PM, 7:00 - 8:30 PM
+Wednesday | Noon - 1:30 PM
+Thursday | 6:00 - 7:30 PM
+Friday | Noon - 1:00 PM
+Saturday | 10:30 AM - Noon, 3:30 - 5:00 PM
 
 Remember that [Piazza](https://piazza.com/case/spring2022/pqhs432) is available 24 hours a day, 7 days a week for your questions and answers.
 
