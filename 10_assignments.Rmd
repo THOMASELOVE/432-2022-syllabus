@@ -116,6 +116,8 @@ During the semester, you will have two projects to complete.
 - Project A anticipates you using materials from the first 12 classes.
 - Project B anticipates you using materials from the first 25 classes.
 
+Your Project Grade will be calculated using 40% of the lower of your two project grades (project A or project B) and 60% of the higher of your two grades.
+
 For more information on the Projects, please visit [our main course web site](https://thomaselove.github.io/432/).
 
 ## Final Grade
